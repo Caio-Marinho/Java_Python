@@ -13,6 +13,12 @@ e agora digite:
 python arquivo.py
 ```
 
+ou se prefir pode instalar o jpype:
+```bash
+pip install jpype1
+```
+e depois de escrever o codigo dá o comando de execução do python via cmd
+
 para executar o python no java entre na pasta dos arquivos:
 <br>
 digite:
